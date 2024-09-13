@@ -1,0 +1,1 @@
+console.log("Test muvaffaqiyatli o'tdi")
